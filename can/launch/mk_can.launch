@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="mk_can" type="mk_can_node" name="mk_can" output="log">
+	</node>
+</launch>
